@@ -23,5 +23,5 @@ Backend developer from Brazil, aiming for Full-stack | Undergraduate in Computer
 
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/tiago-guerreiro-1a2295183?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQNH6%2F9rbTaGeJ6GerQTd0w%3D%3D"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/tiago-guerreiro-1a2295183?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQNH6%2F9rbTaGeJ6GerQTd0w%3D%3D"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
