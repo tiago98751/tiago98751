@@ -1,6 +1,8 @@
-### Hello everyone. I'm Tiago Guerreiro
+<h1 align="center" >Hello everyone. I'm Tiago Guerreiro</h1>
 
+<h3 align="center">
 Backend developer from Brazil, aiming for Full-stack | Undergraduate in Computer Engineering.
+</h3>
 
 ## I have experience with:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
